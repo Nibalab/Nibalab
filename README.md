@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nibal Abd Al Baki</h1>
-<h3 align="center">A passionate Junior Full Stack Developer from Lebanon</h3>
+<h3 align="center">A passionate Software Developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibalab&label=Profile%20views&color=0e75b6&style=flat" alt="nibalab" /> </p>
