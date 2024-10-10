@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My final Project in SE Factory**
+- ✅ Completed  [SE Factory](https://www.sefactory.io/)  **Full Stack Web development bootcamp** 
 
 - 🌱 I’m currently learning **Goland**
 
