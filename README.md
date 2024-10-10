@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdalbakinibal@gmail.com**
 
-- 📄 Know about my experiences [Nibal-abd-cv](Nibal-abd-cv)
+- 📄 Know about my experiences [Nibal-abd-cv](https://drive.google.com/file/d/1Jy4vnZtbIxMos6LtUWDsXjkq7eRPB7r4/view?usp=sharing)
 
 - ⚡ Fun fact **I am sociable**
 
