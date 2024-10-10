@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My final Project in SE Factory**
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently learning **Goland**
 
 - 👨‍💻 All of my projects are available at [Nibalab](Nibalab)
 
