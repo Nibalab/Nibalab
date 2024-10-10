@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Nibalab](Nibalab)
 
-- 💬 Ask me about **flutter, Nodejs**
+- 💬 Ask me about **ReactJS, Nodejs, Laravel**
 
 - 📫 How to reach me **abdalbakinibal@gmail.com**
 
